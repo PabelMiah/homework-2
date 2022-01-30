@@ -1,0 +1,23 @@
+
+.h-200{ height: 200px;}
+.h-50{ height: 50px;}
+.h-600{ height:600px;}
+.h-250{ height: 250px;}
+.h-40{ height: 40px;}
+
+.bg-footer{
+    background: #efefef;
+}
+.bg-header{
+    background: #e2e2e2;
+}
+
+.font-12{
+    font-size: 14px;
+    padding: 4px;
+}
+
+.custom-padding{
+    padding-left: 5px;
+    padding-right: 5px;
+}
